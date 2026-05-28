@@ -107,8 +107,6 @@ Enabled public internet accessibility for hosted website.
 aws-cloud-hosting-project/
 
 ├── index.html
-├── style.css
-├── images/
 └── README.md
 
 ---
